@@ -16,7 +16,7 @@ The primary goals are:
 
 📎 *Insert your ERD image below*
 
-![ERD Diagram](path/to/your/erd-diagram.png](https://github.com/WhoCares258/SQL-Restaurant-Database-Project/blob/main/erd.png)
+![ERD Diagram](https://github.com/WhoCares258/SQL-Restaurant-Database-Project/blob/main/erd.png)
 
 This ERD visualizes the structure and relationships of all major entities within the database, including foreign key dependencies, many-to-many junctions, and hierarchical data such as combo meals and their components.
 
